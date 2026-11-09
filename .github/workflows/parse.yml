@@ -1,0 +1,33 @@
+name: ADMEXA News Parser
+
+on:
+  schedule:
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+    inputs:
+      max_age_days:
+        description: "Max age of news in days"
+        required: false
+        default: "7"
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser requests beautifulsoup4
+      - run: python scripts/parser.py
+        env:
+          MAX_AGE_DAYS: ${{ github.event.inputs.max_age_days || '7' }}
+      - name: Commit results
+        run: |
+          git config user.name "admexa-bot"
+          git config user.email "bot@admexa.eu"
+          git add output/news.json output/digest.md
+          git diff --cached --quiet || git commit -m "News update $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
