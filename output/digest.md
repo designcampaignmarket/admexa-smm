@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 10 November 2026, 06:52 UTC  
+**Collected:** 10 November 2026, 12:50 UTC  
 **Sources:** 12/18 available  
-**Items:** 51
+**Items:** 50
 
 ---
 
@@ -46,8 +46,8 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-09
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-09
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-10
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-10
 - [Guidance: Student sponsor guidance](https://www.gov.uk/government/publications/student-sponsor-guidance) 2026-11-06
 - [Guidance: Family life and exceptional circumstances: caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance) 2026-11-05
 - [Guidance: Georgia: country policy and information notes](https://www.gov.uk/government/publications/georgia-country-policy-and-information-notes) 2026-11-05
@@ -57,7 +57,6 @@
 - [Government travel](https://www.gov.uk/guidance/government-travel) 2026-11-03
 - [Consular officer or employee based in the UK](https://www.gov.uk/guidance/consular-officer-or-employee-based-in-the-uk) 2026-11-03
 - [People attending a qualifying international conference in the UK](https://www.gov.uk/guidance/people-attending-a-qualifying-international-conference-in-the-uk) 2026-11-03
-- [Guidance: Powers and operational procedure: caseworker guidance](https://www.gov.uk/government/publications/powers-and-operational-procedure-caseworker-guidance) 2026-11-03
 
 ### Knight Frank Research
 *Real estate*
@@ -75,9 +74,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
-- [Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans](https://digital-strategy.ec.europa.eu/en/news/commission-opens-negotiations-extend-roam-home-western-balkans)
-- [Commission launches Education and Skills package to tackle declining basic skills, rapid digital change and teacher shortages](https://digital-strategy.ec.europa.eu/en/news/commission-launches-education-and-skills-package-tackle-declining-basic-skills-rapid-digital-change)
-- [AI toolbox supports public administrations to put the Apply AI Strategy into practice](https://digital-strategy.ec.europa.eu/en/news/ai-toolbox-supports-public-administrations-put-apply-ai-strategy-practice)
+- [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
+- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
+- [EU and India conclude negotiations on association to Horizon Europe](https://digital-strategy.ec.europa.eu/en/news/eu-and-india-conclude-negotiations-association-horizon-europe)
 
 ### ECIA News
 *Components, supply chains*
@@ -103,7 +102,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 12 items |
+| UK Visas and Immigration | B | RSS | ok 11 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
