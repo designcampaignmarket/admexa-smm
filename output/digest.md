@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 09 November 2026, 18:50 UTC  
+**Collected:** 10 November 2026, 00:41 UTC  
 **Sources:** 12/18 available  
 **Items:** 51
 
