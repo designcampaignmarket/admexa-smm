@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-11T12:52:37.580888+00:00",
-  "fetched_at_human": "11 November 2026, 12:52 UTC",
+  "fetched_at": "2026-11-11T18:44:24.780907+00:00",
+  "fetched_at_human": "11 November 2026, 18:44 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 48,
+  "total_items": 47,
   "items": [
     {
       "source_id": "ecb",
@@ -306,19 +306,6 @@
       "status": "new"
     },
     {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: High Potential Individual visa: global universities list",
-      "url": "https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list",
-      "summary": "Find out if your university qualification means you're eligible for a High Potential Individual visa.",
-      "date": "2026-11-04",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
       "source_id": "kpmg_eu_tax",
       "source_name": "KPMG EU Tax Centre",
       "pillar": "EU taxes",
@@ -532,8 +519,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "Commission invites views on draft revised election guidelines under Digital Services Act",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act",
+      "title": "High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -545,8 +532,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "EU-NATO hold Structured Dialogue on Cyber",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-nato-hold-structured-dialogue-cyber",
+      "title": "WiFi4EU – from EU investment to lasting local impact",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/wifi4eu-eu-investment-lasting-local-impact",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -684,7 +671,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 8 items"
+      "status": "ok 7 items"
     },
     {
       "source": "ENISA",

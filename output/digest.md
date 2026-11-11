@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 11 November 2026, 12:52 UTC  
+**Collected:** 11 November 2026, 18:44 UTC  
 **Sources:** 12/18 available  
-**Items:** 48
+**Items:** 47
 
 ---
 
@@ -54,7 +54,6 @@
 - [Guidance: Family life and exceptional circumstances: caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance) 2026-11-05
 - [Guidance: Georgia: country policy and information notes](https://www.gov.uk/government/publications/georgia-country-policy-and-information-notes) 2026-11-05
 - [Guidance: Private life: caseworker guidance](https://www.gov.uk/government/publications/private-life-caseworker-guidance) 2026-11-05
-- [Guidance: High Potential Individual visa: global universities list](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list) 2026-11-04
 
 ### Knight Frank Research
 *Real estate*
@@ -73,8 +72,8 @@
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
 - [EU-Ukraine Drone Alliance Board meets to accelerate development and production of drone and counter-drone systems](https://digital-strategy.ec.europa.eu/en/news/eu-ukraine-drone-alliance-board-meets-accelerate-development-and-production-drone-and-counter-drone)
-- [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
-- [EU-NATO hold Structured Dialogue on Cyber](https://digital-strategy.ec.europa.eu/en/news/eu-nato-hold-structured-dialogue-cyber)
+- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
+- [WiFi4EU – from EU investment to lasting local impact](https://digital-strategy.ec.europa.eu/en/news/wifi4eu-eu-investment-lasting-local-impact)
 
 ### ECIA News
 *Components, supply chains*
@@ -100,7 +99,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 8 items |
+| UK Visas and Immigration | B | RSS | ok 7 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
