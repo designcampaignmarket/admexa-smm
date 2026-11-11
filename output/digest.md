@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 11 November 2026, 00:42 UTC  
-**Sources:** 12/18 available  
-**Items:** 49
+**Collected:** 11 November 2026, 06:56 UTC  
+**Sources:** 11/18 available  
+**Items:** 43
 
 ---
 
@@ -57,16 +57,6 @@
 - [Guidance: High Potential Individual visa: global universities list](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list) 2026-11-04
 - [Guidance: Sudan: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-sudan) 2026-11-04
 
-### Knight Frank Research
-*Real estate*
-
-- [European Logistics Dashboard](https://www.knightfrank.com/content/d784c210-1ed8-4899-9741-7dd7ac04e47b/european-logistics-dashboard-2079)
-- [Asia Pacific Office Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-office-highlights-20832)
-- [The Residence Report](https://www.knightfrank.com/research/reports/global/the-residence-report)
-- [Asia Pacific Logistics Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083)
-- [Data Centres Global Report](https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global)
-- [Data Centres: The Leading Questions](https://www.knightfrank.com/content/4f5c0357-f258-494d-9ac0-92b9ed0c4e84/data-centres-global-report)
-
 ### EU Digital Strategy
 *AI, EU digital policy*
 
@@ -107,7 +97,7 @@
 | CySEC | A | HTML | ok 0 items |
 | KPMG EU Tax Centre | A | HTML | ok 6 items |
 | Private Equity News | A | HTML | err 401 Client Error: HTTP Forbidden for url: https://www.penews.com/ |
-| Knight Frank Research | B | HTML | ok 6 items |
+| Knight Frank Research | B | HTML | err HTTPSConnectionPool(host='www.knightfrank.com', port=443): Read timed out. (read |
 | EU Digital Strategy | B | HTML | ok 6 items |
 | ECIA News | B | HTML | ok 6 items |
 | Art Basel / UBS Art Market | B | HTML | ok 0 items |

@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-11T00:42:05.529290+00:00",
-  "fetched_at_human": "11 November 2026, 00:42 UTC",
+  "fetched_at": "2026-11-11T06:56:15.064691+00:00",
+  "fetched_at_human": "11 November 2026, 06:56 UTC",
   "max_age_days": 7,
-  "sources_ok": 12,
+  "sources_ok": 11,
   "sources_total": 18,
-  "total_items": 49,
+  "total_items": 43,
   "items": [
     {
       "source_id": "ecb",
@@ -410,84 +410,6 @@
       "status": "new"
     },
     {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "European Logistics Dashboard",
-      "url": "https://www.knightfrank.com/content/d784c210-1ed8-4899-9741-7dd7ac04e47b/european-logistics-dashboard-2079",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "Asia Pacific Office Highlights",
-      "url": "https://www.knightfrank.com/research/reports/apac/asia-pacific-office-highlights-20832",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "The Residence Report",
-      "url": "https://www.knightfrank.com/research/reports/global/the-residence-report",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "Asia Pacific Logistics Highlights",
-      "url": "https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "Data Centres Global Report",
-      "url": "https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "knightfrank",
-      "source_name": "Knight Frank Research",
-      "pillar": "Real estate",
-      "priority": "B",
-      "admexa_service": "Real estate, international assets",
-      "title": "Data Centres: The Leading Questions",
-      "url": "https://www.knightfrank.com/content/4f5c0357-f258-494d-9ac0-92b9ed0c4e84/data-centres-global-report",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
       "source_id": "eu_digital",
       "source_name": "EU Digital Strategy",
       "pillar": "AI, EU digital policy",
@@ -733,7 +655,7 @@
       "source": "Knight Frank Research",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 6 items"
+      "status": "err HTTPSConnectionPool(host='www.knightfrank.com', port=443): Read timed out. (read"
     },
     {
       "source": "EU Digital Strategy",
