@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 10 November 2026, 18:38 UTC  
+**Collected:** 11 November 2026, 00:42 UTC  
 **Sources:** 12/18 available  
-**Items:** 50
+**Items:** 49
 
 ---
 
@@ -17,7 +17,6 @@
 - [ECB publishes consolidated banking data for end-June 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html) 2026-11-06
 - [Isabel Schnabel: Navigating stormy waters: reflections on monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html) 2026-11-05
 - [Piero Cipollone: Shaping the future of money](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html) 2026-11-05
-- [ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html) 2026-11-04
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -74,9 +73,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
-- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
-- [EU-NATO hold Structured Dialogue on Cyber](https://digital-strategy.ec.europa.eu/en/news/eu-nato-hold-structured-dialogue-cyber)
 - [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
+- [EU-NATO hold Structured Dialogue on Cyber](https://digital-strategy.ec.europa.eu/en/news/eu-nato-hold-structured-dialogue-cyber)
+- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
 
 ### ECIA News
 *Components, supply chains*
@@ -96,7 +95,7 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 7 items |
+| ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
