@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 11 November 2026, 06:56 UTC  
-**Sources:** 11/18 available  
-**Items:** 43
+**Collected:** 11 November 2026, 12:52 UTC  
+**Sources:** 12/18 available  
+**Items:** 48
 
 ---
 
@@ -47,15 +47,24 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-11
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-11
 - [Form: Windrush Scheme application form (UK)](https://www.gov.uk/government/publications/windrush-scheme-application-form-uk) 2026-11-10
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-10
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-10
 - [Guidance: Student sponsor guidance](https://www.gov.uk/government/publications/student-sponsor-guidance) 2026-11-06
 - [Guidance: Family life and exceptional circumstances: caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance) 2026-11-05
 - [Guidance: Georgia: country policy and information notes](https://www.gov.uk/government/publications/georgia-country-policy-and-information-notes) 2026-11-05
 - [Guidance: Private life: caseworker guidance](https://www.gov.uk/government/publications/private-life-caseworker-guidance) 2026-11-05
 - [Guidance: High Potential Individual visa: global universities list](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list) 2026-11-04
-- [Guidance: Sudan: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-sudan) 2026-11-04
+
+### Knight Frank Research
+*Real estate*
+
+- [European Logistics Dashboard](https://www.knightfrank.com/content/d784c210-1ed8-4899-9741-7dd7ac04e47b/european-logistics-dashboard-2079)
+- [Asia Pacific Office Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-office-highlights-20832)
+- [The Residence Report](https://www.knightfrank.com/research/reports/global/the-residence-report)
+- [Asia Pacific Logistics Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083)
+- [Data Centres Global Report](https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global)
+- [Data Centres: The Leading Questions](https://www.knightfrank.com/content/4f5c0357-f258-494d-9ac0-92b9ed0c4e84/data-centres-global-report)
 
 ### EU Digital Strategy
 *AI, EU digital policy*
@@ -63,9 +72,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
+- [EU-Ukraine Drone Alliance Board meets to accelerate development and production of drone and counter-drone systems](https://digital-strategy.ec.europa.eu/en/news/eu-ukraine-drone-alliance-board-meets-accelerate-development-and-production-drone-and-counter-drone)
 - [Commission invites views on draft revised election guidelines under Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act)
 - [EU-NATO hold Structured Dialogue on Cyber](https://digital-strategy.ec.europa.eu/en/news/eu-nato-hold-structured-dialogue-cyber)
-- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
 
 ### ECIA News
 *Components, supply chains*
@@ -91,13 +100,13 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 9 items |
+| UK Visas and Immigration | B | RSS | ok 8 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
 | KPMG EU Tax Centre | A | HTML | ok 6 items |
 | Private Equity News | A | HTML | err 401 Client Error: HTTP Forbidden for url: https://www.penews.com/ |
-| Knight Frank Research | B | HTML | err HTTPSConnectionPool(host='www.knightfrank.com', port=443): Read timed out. (read |
+| Knight Frank Research | B | HTML | ok 6 items |
 | EU Digital Strategy | B | HTML | ok 6 items |
 | ECIA News | B | HTML | ok 6 items |
 | Art Basel / UBS Art Market | B | HTML | ok 0 items |
