@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 11 November 2026, 18:44 UTC  
+**Collected:** 12 November 2026, 00:54 UTC  
 **Sources:** 12/18 available  
 **Items:** 47
 
@@ -78,12 +78,12 @@
 ### ECIA News
 *Components, supply chains*
 
+- [November 11, 2026- ECIA Newsletter, The Source](https://www.ecianow.org/2026/11/11/november-11/)
 - [ECIAâs Industry Pulse: Electronic Component Trends and Sentiment October 2026](https://www.ecianow.org/2026/11/10/ecias-industry-pulse-electronic-component-trends-and-sentiment-october-2026/)
 - [Why AI and Defense are Rewiring the Electronics Supply Chain – EMS Now](https://www.ecianow.org/2026/11/05/supply-chains-are-changing-structurally-not-cyclically-lets-plan-accordingly-ems-now/)
 - [Up Close with Kristen Ballard, TrustedParts.com](https://www.ecianow.org/2026/11/05/up-close-with-kristen-ballard-trustedparts-com/)
 - [ECIA Announces 2026 North Star Award Recipient](https://www.ecianow.org/2026/11/05/ecia-announces-2026-north-star-award-recipient/)
 - [November 4, 2026- ECIA Newsletter, The Source](https://www.ecianow.org/2026/11/04/november-4/)
-- [ECIA Announces 2026 Partner Award Recipient](https://www.ecianow.org/2026/11/03/ecia-announces-2026-partner-award-recipient/)
 
 ---
 
