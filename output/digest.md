@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 12 November 2026, 06:58 UTC  
+**Collected:** 12 November 2026, 12:54 UTC  
 **Sources:** 12/18 available  
 **Items:** 47
 
@@ -15,8 +15,6 @@
 - [Piero Cipollone: Cash and the digital euro: two sides of the same coin](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html) 2026-11-10
 - [Christine Lagarde: Interview with Yomiuri Shimbun](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html) 2026-11-07
 - [ECB publishes consolidated banking data for end-June 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html) 2026-11-06
-- [Isabel Schnabel: Navigating stormy waters: reflections on monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html) 2026-11-05
-- [Piero Cipollone: Shaping the future of money](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html) 2026-11-05
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -47,8 +45,10 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-11
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-11
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-12
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-12
+- [Guidance: Brazil: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/brazil-tuberculosis-test-clinics-for-a-uk-visa) 2026-11-12
+- [Guidance: Nepal: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nepal) 2026-11-12
 - [Form: Windrush Scheme application form (UK)](https://www.gov.uk/government/publications/windrush-scheme-application-form-uk) 2026-11-10
 - [Guidance: Student sponsor guidance](https://www.gov.uk/government/publications/student-sponsor-guidance) 2026-11-06
 - [Guidance: Family life and exceptional circumstances: caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance) 2026-11-05
@@ -71,9 +71,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
+- [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
+- [EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)
 - [EU-Ukraine Drone Alliance Board meets to accelerate development and production of drone and counter-drone systems](https://digital-strategy.ec.europa.eu/en/news/eu-ukraine-drone-alliance-board-meets-accelerate-development-and-production-drone-and-counter-drone)
-- [High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia](https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south)
-- [WiFi4EU – from EU investment to lasting local impact](https://digital-strategy.ec.europa.eu/en/news/wifi4eu-eu-investment-lasting-local-impact)
 
 ### ECIA News
 *Components, supply chains*
@@ -93,13 +93,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 6 items |
+| ECB Press | A | RSS | ok 4 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 7 items |
+| UK Visas and Immigration | B | RSS | ok 9 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
