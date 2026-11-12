@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 12 November 2026, 12:54 UTC  
+**Collected:** 12 November 2026, 18:43 UTC  
 **Sources:** 12/18 available  
-**Items:** 47
+**Items:** 44
 
 ---
 
@@ -51,9 +51,6 @@
 - [Guidance: Nepal: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nepal) 2026-11-12
 - [Form: Windrush Scheme application form (UK)](https://www.gov.uk/government/publications/windrush-scheme-application-form-uk) 2026-11-10
 - [Guidance: Student sponsor guidance](https://www.gov.uk/government/publications/student-sponsor-guidance) 2026-11-06
-- [Guidance: Family life and exceptional circumstances: caseworker guidance](https://www.gov.uk/government/publications/family-life-as-a-partner-or-parent-private-life-and-exceptional-circumstance) 2026-11-05
-- [Guidance: Georgia: country policy and information notes](https://www.gov.uk/government/publications/georgia-country-policy-and-information-notes) 2026-11-05
-- [Guidance: Private life: caseworker guidance](https://www.gov.uk/government/publications/private-life-caseworker-guidance) 2026-11-05
 
 ### Knight Frank Research
 *Real estate*
@@ -71,9 +68,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
+- [COP31: Strengthening the green and digital transitions](https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions)
 - [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
 - [EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)
-- [EU-Ukraine Drone Alliance Board meets to accelerate development and production of drone and counter-drone systems](https://digital-strategy.ec.europa.eu/en/news/eu-ukraine-drone-alliance-board-meets-accelerate-development-and-production-drone-and-counter-drone)
 
 ### ECIA News
 *Components, supply chains*
@@ -99,7 +96,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 9 items |
+| UK Visas and Immigration | B | RSS | ok 6 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
