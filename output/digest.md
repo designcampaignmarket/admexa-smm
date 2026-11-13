@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 13 November 2026, 06:57 UTC  
+**Collected:** 13 November 2026, 12:51 UTC  
 **Sources:** 12/18 available  
 **Items:** 44
 
@@ -11,10 +11,10 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Isabel Schnabel: Made in Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html) 2026-11-13
 - [Philip R. Lane: The science and practice of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html) 2026-11-10
 - [Piero Cipollone: Cash and the digital euro: two sides of the same coin](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html) 2026-11-10
 - [Christine Lagarde: Interview with Yomiuri Shimbun](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html) 2026-11-07
-- [ECB publishes consolidated banking data for end-June 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html) 2026-11-06
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -68,9 +68,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
-- [COP31: Strengthening the green and digital transitions](https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions)
 - [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
 - [EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)
+- [COP31: Strengthening the green and digital transitions](https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions)
 
 ### ECIA News
 *Components, supply chains*
