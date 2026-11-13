@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-13T12:51:57.660404+00:00",
-  "fetched_at_human": "13 November 2026, 12:51 UTC",
+  "fetched_at": "2026-11-13T18:41:07.070654+00:00",
+  "fetched_at_human": "13 November 2026, 18:41 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 44,
+  "total_items": 45,
   "items": [
     {
       "source_id": "ecb",
@@ -194,6 +194,32 @@
       "pillar": "Visas, relocation",
       "priority": "B",
       "admexa_service": "Relocation, international life",
+      "title": "Guidance: Ethiopia: country policy and information notes",
+      "url": "https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes",
+      "summary": "Guidance used by UK Visas and Immigration to make decisions in asylum and human rights applications.",
+      "date": "2026-11-13",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Guidance: Fraud, tricks and scams",
+      "url": "https://www.gov.uk/government/publications/frauds-tricks-and-scams",
+      "summary": "What to do if you get an email, telephone call or letter from someone pretending to be the Home Office.",
+      "date": "2026-11-13",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
       "title": "Guidance: Register of licensed sponsors: students",
       "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
       "summary": "List of institutions licensed to sponsor migrant students under the Student and Child Student routes.",
@@ -250,19 +276,6 @@
       "url": "https://www.gov.uk/government/publications/windrush-scheme-application-form-uk",
       "summary": "Application form for the Windrush Scheme.",
       "date": "2026-11-10",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Student sponsor guidance",
-      "url": "https://www.gov.uk/government/publications/student-sponsor-guidance",
-      "summary": "How to apply for a Student sponsor licence and how to sponsor a student.",
-      "date": "2026-11-06",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -467,6 +480,19 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
+      "title": "COP31: Strengthening the green and digital transitions",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
       "title": "Commission invites feedback on deploying cellular-based dual-use drone detection capacity",
       "url": "https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity",
       "summary": "",
@@ -482,19 +508,6 @@
       "admexa_service": "Technology, regulation",
       "title": "EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals",
       "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "COP31: Strengthening the green and digital transitions",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -632,7 +645,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 6 items"
+      "status": "ok 7 items"
     },
     {
       "source": "ENISA",
