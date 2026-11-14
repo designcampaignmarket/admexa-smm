@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-14T12:35:34.562639+00:00",
-  "fetched_at_human": "14 November 2026, 12:35 UTC",
+  "fetched_at": "2026-11-14T18:30:13.833271+00:00",
+  "fetched_at_human": "14 November 2026, 18:30 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 45,
+  "total_items": 44,
   "items": [
     {
       "source_id": "ecb",
@@ -42,19 +42,6 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
       "summary": "",
       "date": "2026-11-10",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ecb",
-      "source_name": "ECB Press",
-      "pillar": "ECB decisions, banking",
-      "priority": "A",
-      "admexa_service": "Banking architecture",
-      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
-      "summary": "",
-      "date": "2026-11-07",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -609,7 +596,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 4 items"
+      "status": "ok 3 items"
     },
     {
       "source": "ESMA",

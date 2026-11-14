@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 14 November 2026, 12:35 UTC  
+**Collected:** 14 November 2026, 18:30 UTC  
 **Sources:** 12/18 available  
-**Items:** 45
+**Items:** 44
 
 ---
 
@@ -14,7 +14,6 @@
 - [Isabel Schnabel: Made in Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html) 2026-11-13
 - [Philip R. Lane: The science and practice of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html) 2026-11-10
 - [Piero Cipollone: Cash and the digital euro: two sides of the same coin](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html) 2026-11-10
-- [Christine Lagarde: Interview with Yomiuri Shimbun](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html) 2026-11-07
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -91,7 +90,7 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 4 items |
+| ECB Press | A | RSS | ok 3 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
