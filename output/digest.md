@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 16 November 2026, 00:58 UTC  
+**Collected:** 16 November 2026, 08:11 UTC  
 **Sources:** 12/18 available  
 **Items:** 44
 
@@ -68,9 +68,9 @@
 - [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
-- [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
-- [EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals](https://digital-strategy.ec.europa.eu/en/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals)
+- [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
 - [COP31: Strengthening the green and digital transitions](https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions)
+- [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
 
 ### ECIA News
 *Components, supply chains*
