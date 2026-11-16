@@ -1,11 +1,37 @@
 {
-  "fetched_at": "2026-11-16T08:11:42.981141+00:00",
-  "fetched_at_human": "16 November 2026, 08:11 UTC",
+  "fetched_at": "2026-11-16T14:49:15.405006+00:00",
+  "fetched_at_human": "16 November 2026, 14:49 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 44,
+  "total_items": 47,
   "items": [
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "summary": "",
+      "date": "2026-11-16",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "summary": "",
+      "date": "2026-11-16",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
     {
       "source_id": "ecb",
       "source_name": "ECB Press",
@@ -172,6 +198,19 @@
       "url": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement",
       "summary": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement 15 October 2026 Market Abuse Supervisory convergence Transparency The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, published today its consolidated report on sanctions and measures imposed across the European Economic Area (EEA) in 2025, enhancing the t",
       "date": "",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Guidance: Rwanda: tuberculosis test clinics for a UK visa",
+      "url": "https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda",
+      "summary": "Where to get tested for tuberculosis (TB) in Rwanda for your UK visa application.",
+      "date": "2026-11-16",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -480,8 +519,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "COP31: Strengthening the green and digital transitions",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions",
+      "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -493,8 +532,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "Commission invites feedback on deploying cellular-based dual-use drone detection capacity",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity",
+      "title": "COP31: Strengthening the green and digital transitions",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -596,7 +635,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 3 items"
+      "status": "ok 5 items"
     },
     {
       "source": "ESMA",
@@ -632,7 +671,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 7 items"
+      "status": "ok 8 items"
     },
     {
       "source": "ENISA",

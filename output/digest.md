@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 16 November 2026, 08:11 UTC  
+**Collected:** 16 November 2026, 14:49 UTC  
 **Sources:** 12/18 available  
-**Items:** 44
+**Items:** 47
 
 ---
 
@@ -11,6 +11,8 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Frank Elderson: Smart supervision for small banks](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html) 2026-11-16
+- [Boris Vujčić: Risks and resilience in the euro area financial system](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html) 2026-11-16
 - [Isabel Schnabel: Made in Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html) 2026-11-13
 - [Philip R. Lane: The science and practice of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html) 2026-11-10
 - [Piero Cipollone: Cash and the digital euro: two sides of the same coin](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html) 2026-11-10
@@ -44,6 +46,7 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-16
 - [Guidance: Ethiopia: country policy and information notes](https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes) 2026-11-13
 - [Guidance: Fraud, tricks and scams](https://www.gov.uk/government/publications/frauds-tricks-and-scams) 2026-11-13
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-12
@@ -69,8 +72,8 @@
 - [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
 - [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
 - [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
+- [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
 - [COP31: Strengthening the green and digital transitions](https://digital-strategy.ec.europa.eu/en/news/cop31-strengthening-green-and-digital-transitions)
-- [Commission invites feedback on deploying cellular-based dual-use drone detection capacity](https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity)
 
 ### ECIA News
 *Components, supply chains*
@@ -90,13 +93,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 3 items |
+| ECB Press | A | RSS | ok 5 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 7 items |
+| UK Visas and Immigration | B | RSS | ok 8 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
