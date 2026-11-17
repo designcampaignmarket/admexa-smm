@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 17 November 2026, 06:59 UTC  
+**Collected:** 17 November 2026, 12:52 UTC  
 **Sources:** 12/18 available  
 **Items:** 47
 
@@ -68,12 +68,12 @@
 ### EU Digital Strategy
 *AI, EU digital policy*
 
-- [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
-- [Commission accepts Temu's action plan to remedy the breach of the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act)
-- [Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act](https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act)
+- [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [€9.5 million EU support for fast emergency repair of Baltic Sea submarine cables](https://digital-strategy.ec.europa.eu/en/news/eu95-million-eu-support-fast-emergency-repair-baltic-sea-submarine-cables)
-- [Commission seeks feedback on draft template for the fundamental rights impact assessment under the AI Act](https://digital-strategy.ec.europa.eu/en/news/commission-seeks-feedback-draft-template-fundamental-rights-impact-assessment-under-ai-act)
+- [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
+- [Commission marks more than 20 investments to boost semiconductor supply](https://digital-strategy.ec.europa.eu/en/news/commission-marks-more-20-investments-boost-semiconductor-supply)
+- [Call for Expression of Interest for European AI providers](https://digital-strategy.ec.europa.eu/en/news/call-expression-interest-european-ai-providers)
+- [Commission launches over €290 million to boost EU tech sovereignty and beyond](https://digital-strategy.ec.europa.eu/en/news/commission-launches-over-eu290-million-boost-eu-tech-sovereignty-and-beyond)
 
 ### ECIA News
 *Components, supply chains*
