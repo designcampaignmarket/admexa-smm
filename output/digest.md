@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 18 November 2026, 12:56 UTC  
+**Collected:** 18 November 2026, 18:44 UTC  
 **Sources:** 12/18 available  
-**Items:** 49
+**Items:** 50
 
 ---
 
@@ -47,6 +47,7 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Nigeria: country policy and information notes](https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes) 2026-11-18
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-18
 - [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-18
 - [Guidance: Conditions of support: caseworker guidance](https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction) 2026-11-18
@@ -101,7 +102,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 9 items |
+| UK Visas and Immigration | B | RSS | ok 10 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
