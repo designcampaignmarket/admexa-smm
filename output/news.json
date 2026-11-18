@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-18T00:54:42.360971+00:00",
-  "fetched_at_human": "18 November 2026, 00:54 UTC",
+  "fetched_at": "2026-11-18T06:59:43.611221+00:00",
+  "fetched_at_human": "18 November 2026, 06:59 UTC",
   "max_age_days": 7,
-  "sources_ok": 12,
+  "sources_ok": 11,
   "sources_total": 18,
   "total_items": 45,
   "items": [
@@ -627,7 +627,7 @@
       "source": "Invest Europe",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 0 items"
+      "status": "err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/"
     },
     {
       "source": "IEA",
