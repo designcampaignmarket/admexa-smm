@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 18 November 2026, 06:59 UTC  
-**Sources:** 11/18 available  
-**Items:** 45
+**Collected:** 18 November 2026, 12:56 UTC  
+**Sources:** 12/18 available  
+**Items:** 49
 
 ---
 
@@ -11,6 +11,8 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Boris Vujčić: Financial Stability Review - November 2026](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf) 2026-11-18
+- [Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html) 2026-11-18
 - [Philip R. Lane: The practice and science of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf) 2026-11-17
 - [Frank Elderson: Smart supervision for small banks](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html) 2026-11-16
 - [Boris Vujčić: Risks and resilience in the euro area financial system](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html) 2026-11-16
@@ -19,6 +21,7 @@
 ### ESMA
 *EU markets regulation, MiCA*
 
+- [DRSP supervisory responsibilities remain unchanged following ESMA assessment](https://www.esma.europa.eu/press-news/esma-news/drsp-supervisory-responsibilities-remain-unchanged-following-esma-assessment)
 - [EU seeks nominations for stakeholder group on tokenisation standards in finance](https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance)
 - [ESMA publishes latest edition of its newsletter](https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-45)
 - [ESMA proposes simpler EU Taxonomy reporting](https://www.esma.europa.eu/press-news/esma-news/esma-proposes-simpler-eu-taxonomy-reporting)
@@ -28,7 +31,6 @@
 - [ESMA finalises the review of guidelines on the delay in disclosure of inside information](https://www.esma.europa.eu/press-news/esma-news/esma-finalises-review-guidelines-delay-disclosure-inside-information)
 - [One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen](https://www.esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it)
 - [ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime](https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick)
-- [ESMA's third Sanctions Report highlights the need for greater convergence in enforcement](https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement)
 
 ### KPMG EU Tax Centre
 *EU taxes*
@@ -45,9 +47,11 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-18
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-18
+- [Guidance: Conditions of support: caseworker guidance](https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction) 2026-11-18
+- [Guidance: Illegal working as a breach of conditions: caseworker guidance](https://www.gov.uk/government/publications/illegal-working-as-a-breach-of-conditions-caseworker-guidance) 2026-11-18
 - [Guidance: Ethiopia: country policy and information notes](https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes) 2026-11-17
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-17
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-17
 - [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-16
 - [Guidance: Fraud, tricks and scams](https://www.gov.uk/government/publications/frauds-tricks-and-scams) 2026-11-13
 - [Guidance: Brazil: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/brazil-tuberculosis-test-clinics-for-a-uk-visa) 2026-11-12
@@ -91,13 +95,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 4 items |
+| ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
-| Invest Europe | A | RSS | err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/ |
+| Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 7 items |
+| UK Visas and Immigration | B | RSS | ok 9 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
