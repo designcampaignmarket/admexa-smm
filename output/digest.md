@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 20 November 2026, 12:55 UTC  
+**Collected:** 20 November 2026, 18:50 UTC  
 **Sources:** 12/18 available  
-**Items:** 49
+**Items:** 51
 
 ---
 
@@ -47,6 +47,10 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
+- [Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance](https://www.gov.uk/government/publications/adopted-children) 2026-11-20
+- [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
+- [Guidance: Returns preparation: caseworker guidance](https://www.gov.uk/government/publications/returns-preparation) 2026-11-20
 - [Guidance: China: country policy and information notes](https://www.gov.uk/government/publications/china-country-policy-and-information-notes) 2026-11-20
 - [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-19
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-19
@@ -54,8 +58,6 @@
 - [Guidance: Conditions of support: caseworker guidance](https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction) 2026-11-18
 - [Guidance: Illegal working as a breach of conditions: caseworker guidance](https://www.gov.uk/government/publications/illegal-working-as-a-breach-of-conditions-caseworker-guidance) 2026-11-18
 - [Guidance: Ethiopia: country policy and information notes](https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes) 2026-11-17
-- [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-16
-- [Guidance: Fraud, tricks and scams](https://www.gov.uk/government/publications/frauds-tricks-and-scams) 2026-11-13
 
 ### Knight Frank Research
 *Real estate*
@@ -70,12 +72,12 @@
 ### EU Digital Strategy
 *AI, EU digital policy*
 
+- [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes)
-- [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
-- [First European standard published to support the Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/news/first-european-standard-published-support-cyber-resilience-act)
-- [European Centre for Democratic Resilience invites independent organisations to join its Stakeholder Platform](https://digital-strategy.ec.europa.eu/en/news/european-centre-democratic-resilience-invites-independent-organisations-join-its-stakeholder)
+- [Member States join forces to develop sovereign digital infrastructure on education](https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education)
+- [The AI Act Advisory Forum holds its second meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-advisory-forum-holds-its-second-meeting)
+- [AI Board holds its tenth meeting](https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-tenth-meeting)
 
 ### ECIA News
 *Components, supply chains*
@@ -101,7 +103,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 9 items |
+| UK Visas and Immigration | B | RSS | ok 11 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
