@@ -1,7 +1,7 @@
 # ADMEXA News Digest
 
-**Collected:** 21 November 2026, 12:43 UTC  
-**Sources:** 12/18 available  
+**Collected:** 21 November 2026, 18:35 UTC  
+**Sources:** 11/18 available  
 **Items:** 51
 
 ---
@@ -75,8 +75,8 @@
 - [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [Member States join forces to develop sovereign digital infrastructure on education](https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education)
 - [The AI Act Advisory Forum holds its second meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-advisory-forum-holds-its-second-meeting)
+- [Member States join forces to develop sovereign digital infrastructure on education](https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education)
 - [AI Board holds its tenth meeting](https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-tenth-meeting)
 
 ### ECIA News
@@ -100,7 +100,7 @@
 | ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
-| Invest Europe | A | RSS | ok 0 items |
+| Invest Europe | A | RSS | err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/ |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
 | UK Visas and Immigration | B | RSS | ok 11 items |
