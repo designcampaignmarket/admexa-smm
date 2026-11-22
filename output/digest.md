@@ -1,7 +1,7 @@
 # ADMEXA News Digest
 
-**Collected:** 21 November 2026, 18:35 UTC  
-**Sources:** 11/18 available  
+**Collected:** 22 November 2026, 00:43 UTC  
+**Sources:** 12/18 available  
 **Items:** 51
 
 ---
@@ -100,7 +100,7 @@
 | ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
-| Invest Europe | A | RSS | err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/ |
+| Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
 | UK Visas and Immigration | B | RSS | ok 11 items |
