@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 23 November 2026, 07:16 UTC  
+**Collected:** 23 November 2026, 12:59 UTC  
 **Sources:** 12/18 available  
 **Items:** 51
 
@@ -11,12 +11,12 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html) 2026-11-23
 - [Christine Lagarde: Acting in time](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) 2026-11-20
 - [Boris Vujčić: Financial Stability Review - November 2026](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf) 2026-11-18
 - [Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html) 2026-11-18
 - [Philip R. Lane: The practice and science of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf) 2026-11-17
 - [Frank Elderson: Smart supervision for small banks](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html) 2026-11-16
-- [Boris Vujčić: Risks and resilience in the euro area financial system](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html) 2026-11-16
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -47,13 +47,13 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-23
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-23
 - [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
 - [Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance](https://www.gov.uk/government/publications/adopted-children) 2026-11-20
 - [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
 - [Guidance: Returns preparation: caseworker guidance](https://www.gov.uk/government/publications/returns-preparation) 2026-11-20
 - [Guidance: China: country policy and information notes](https://www.gov.uk/government/publications/china-country-policy-and-information-notes) 2026-11-20
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-19
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-19
 - [Guidance: Nigeria: country policy and information notes](https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes) 2026-11-18
 - [Guidance: Conditions of support: caseworker guidance](https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction) 2026-11-18
 - [Guidance: Illegal working as a breach of conditions: caseworker guidance](https://www.gov.uk/government/publications/illegal-working-as-a-breach-of-conditions-caseworker-guidance) 2026-11-18
@@ -75,9 +75,9 @@
 - [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
+- [Games Awards 2026: Three MEDIA-supported games are up for top honours](https://digital-strategy.ec.europa.eu/en/news/games-awards-2026-three-media-supported-games-are-top-honours)
+- [Commission welcomes European Citizens' Panel recommendations on Democratic Resilience](https://digital-strategy.ec.europa.eu/en/news/commission-welcomes-european-citizens-panel-recommendations-democratic-resilience)
 - [The AI Act Advisory Forum holds its second meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-advisory-forum-holds-its-second-meeting)
-- [Member States join forces to develop sovereign digital infrastructure on education](https://digital-strategy.ec.europa.eu/en/news/member-states-join-forces-develop-sovereign-digital-infrastructure-education)
-- [AI Board holds its tenth meeting](https://digital-strategy.ec.europa.eu/en/news/ai-board-holds-its-tenth-meeting)
 
 ### ECIA News
 *Components, supply chains*
