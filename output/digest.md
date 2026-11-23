@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 23 November 2026, 12:59 UTC  
+**Collected:** 23 November 2026, 18:51 UTC  
 **Sources:** 12/18 available  
-**Items:** 51
+**Items:** 52
 
 ---
 
@@ -11,12 +11,12 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Philip R. Lane: Climate change and monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf) 2026-11-23
 - [ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html) 2026-11-23
 - [Christine Lagarde: Acting in time](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) 2026-11-20
 - [Boris Vujčić: Financial Stability Review - November 2026](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf) 2026-11-18
 - [Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html) 2026-11-18
 - [Philip R. Lane: The practice and science of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf) 2026-11-17
-- [Frank Elderson: Smart supervision for small banks](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html) 2026-11-16
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -47,6 +47,7 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Prove your English language abilities with a secure English language test (SELT)](https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt) 2026-11-23
 - [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-23
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-23
 - [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
@@ -62,12 +63,12 @@
 ### Knight Frank Research
 *Real estate*
 
+- [Chinese ecommerce and trade in European logistics](https://www.knightfrank.com/research/reports/europe/chinese-ecommerce-and-trade-in-european-logistics)
 - [European Logistics Dashboard](https://www.knightfrank.com/content/d784c210-1ed8-4899-9741-7dd7ac04e47b/european-logistics-dashboard-2079)
 - [Asia Pacific Office Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-office-highlights-20832)
 - [The Residence Report](https://www.knightfrank.com/research/reports/global/the-residence-report)
 - [Asia Pacific Logistics Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083)
 - [Data Centres Global Report](https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global)
-- [Data Centres: The Leading Questions](https://www.knightfrank.com/content/4f5c0357-f258-494d-9ac0-92b9ed0c4e84/data-centres-global-report)
 
 ### EU Digital Strategy
 *AI, EU digital policy*
@@ -103,7 +104,7 @@
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 11 items |
+| UK Visas and Immigration | B | RSS | ok 12 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
