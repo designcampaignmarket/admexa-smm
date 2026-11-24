@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 24 November 2026, 06:59 UTC  
+**Collected:** 24 November 2026, 12:59 UTC  
 **Sources:** 12/18 available  
-**Items:** 52
+**Items:** 54
 
 ---
 
@@ -11,6 +11,7 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html) 2026-11-24
 - [Philip R. Lane: Climate change and monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf) 2026-11-23
 - [ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html) 2026-11-23
 - [Christine Lagarde: Acting in time](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) 2026-11-20
@@ -47,9 +48,10 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-24
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-24
+- [Guidance: Syria: country policy and information notes](https://www.gov.uk/government/publications/syria-country-policy-and-information-notes) 2026-11-24
 - [Prove your English language abilities with a secure English language test (SELT)](https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt) 2026-11-23
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-23
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-23
 - [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
 - [Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance](https://www.gov.uk/government/publications/adopted-children) 2026-11-20
 - [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
@@ -76,9 +78,9 @@
 - [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [Games Awards 2026: Three MEDIA-supported games are up for top honours](https://digital-strategy.ec.europa.eu/en/news/games-awards-2026-three-media-supported-games-are-top-honours)
+- [Results of the 2026 call for proposals on pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting)
+- [EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)
 - [Commission welcomes European Citizens' Panel recommendations on Democratic Resilience](https://digital-strategy.ec.europa.eu/en/news/commission-welcomes-european-citizens-panel-recommendations-democratic-resilience)
-- [The AI Act Advisory Forum holds its second meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-advisory-forum-holds-its-second-meeting)
 
 ### ECIA News
 *Components, supply chains*
@@ -98,13 +100,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 6 items |
+| ECB Press | A | RSS | ok 7 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 12 items |
+| UK Visas and Immigration | B | RSS | ok 13 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
