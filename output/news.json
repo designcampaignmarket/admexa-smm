@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-24T12:59:58.232768+00:00",
-  "fetched_at_human": "24 November 2026, 12:59 UTC",
+  "fetched_at": "2026-11-24T18:50:25.739962+00:00",
+  "fetched_at_human": "24 November 2026, 18:50 UTC",
   "max_age_days": 7,
-  "sources_ok": 12,
+  "sources_ok": 11,
   "sources_total": 18,
-  "total_items": 54,
+  "total_items": 52,
   "items": [
     {
       "source_id": "ecb",
@@ -81,19 +81,6 @@
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
       "summary": "",
       "date": "2026-11-18",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ecb",
-      "source_name": "ECB Press",
-      "pillar": "ECB decisions, banking",
-      "priority": "A",
-      "admexa_service": "Banking architecture",
-      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-      "summary": "",
-      "date": "2026-11-17",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -384,19 +371,6 @@
       "status": "new"
     },
     {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Ethiopia: country policy and information notes",
-      "url": "https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes",
-      "summary": "Guidance used by UK Visas and Immigration to make decisions in asylum and human rights applications.",
-      "date": "2026-11-17",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
       "source_id": "kpmg_eu_tax",
       "source_name": "KPMG EU Tax Centre",
       "pillar": "EU taxes",
@@ -610,8 +584,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "EU and Kenya hold successful digital dialogue",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue",
+      "title": "Commission funds four news media projects with €16.6 million to foster pan-European reporting",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -623,8 +597,8 @@
       "pillar": "AI, EU digital policy",
       "priority": "B",
       "admexa_service": "Technology, regulation",
-      "title": "Commission welcomes European Citizens' Panel recommendations on Democratic Resilience",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-welcomes-european-citizens-panel-recommendations-democratic-resilience",
+      "title": "EU and Kenya hold successful digital dialogue",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue",
       "summary": "",
       "date": "",
       "fetch_method": "HTML",
@@ -726,7 +700,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 7 items"
+      "status": "ok 6 items"
     },
     {
       "source": "ESMA",
@@ -744,13 +718,13 @@
       "source": "Invest Europe",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 0 items"
+      "status": "err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/"
     },
     {
       "source": "IEA",
       "priority": "B",
       "method": "RSS",
-      "status": "err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml"
+      "status": "err HTTPSConnectionPool(host='www.iea.org', port=443): Read timed out. (read timeout"
     },
     {
       "source": "ITIJ",
@@ -762,7 +736,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 13 items"
+      "status": "ok 12 items"
     },
     {
       "source": "ENISA",

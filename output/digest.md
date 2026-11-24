@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 24 November 2026, 12:59 UTC  
-**Sources:** 12/18 available  
-**Items:** 54
+**Collected:** 24 November 2026, 18:50 UTC  
+**Sources:** 11/18 available  
+**Items:** 52
 
 ---
 
@@ -17,7 +17,6 @@
 - [Christine Lagarde: Acting in time](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) 2026-11-20
 - [Boris Vujčić: Financial Stability Review - November 2026](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf) 2026-11-18
 - [Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html) 2026-11-18
-- [Philip R. Lane: The practice and science of monetary policy communication: the ECB experience](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf) 2026-11-17
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -60,7 +59,6 @@
 - [Guidance: Nigeria: country policy and information notes](https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes) 2026-11-18
 - [Guidance: Conditions of support: caseworker guidance](https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction) 2026-11-18
 - [Guidance: Illegal working as a breach of conditions: caseworker guidance](https://www.gov.uk/government/publications/illegal-working-as-a-breach-of-conditions-caseworker-guidance) 2026-11-18
-- [Guidance: Ethiopia: country policy and information notes](https://www.gov.uk/government/publications/ethiopia-country-policy-and-information-notes) 2026-11-17
 
 ### Knight Frank Research
 *Real estate*
@@ -79,8 +77,8 @@
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
 - [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
 - [Results of the 2026 call for proposals on pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting)
+- [Commission funds four news media projects with €16.6 million to foster pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting)
 - [EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)
-- [Commission welcomes European Citizens' Panel recommendations on Democratic Resilience](https://digital-strategy.ec.europa.eu/en/news/commission-welcomes-european-citizens-panel-recommendations-democratic-resilience)
 
 ### ECIA News
 *Components, supply chains*
@@ -100,13 +98,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 7 items |
+| ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
-| Invest Europe | A | RSS | ok 0 items |
-| IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
+| Invest Europe | A | RSS | err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/ |
+| IEA | B | RSS | err HTTPSConnectionPool(host='www.iea.org', port=443): Read timed out. (read timeout |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 13 items |
+| UK Visas and Immigration | B | RSS | ok 12 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
