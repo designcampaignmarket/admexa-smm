@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-24T18:50:25.739962+00:00",
-  "fetched_at_human": "24 November 2026, 18:50 UTC",
+  "fetched_at": "2026-11-25T00:55:22.835265+00:00",
+  "fetched_at_human": "25 November 2026, 00:55 UTC",
   "max_age_days": 7,
-  "sources_ok": 11,
+  "sources_ok": 12,
   "sources_total": 18,
   "total_items": 52,
   "items": [
@@ -718,13 +718,13 @@
       "source": "Invest Europe",
       "priority": "A",
       "method": "RSS",
-      "status": "err 404 Client Error: Not Found for url: https://www.investeurope.eu/feed/"
+      "status": "ok 0 items"
     },
     {
       "source": "IEA",
       "priority": "B",
       "method": "RSS",
-      "status": "err HTTPSConnectionPool(host='www.iea.org', port=443): Read timed out. (read timeout"
+      "status": "err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml"
     },
     {
       "source": "ITIJ",
