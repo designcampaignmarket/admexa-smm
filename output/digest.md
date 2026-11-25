@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 25 November 2026, 13:04 UTC  
+**Collected:** 25 November 2026, 18:43 UTC  
 **Sources:** 12/18 available  
-**Items:** 53
+**Items:** 48
 
 ---
 
@@ -11,6 +11,7 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [ECB and Sveriges Riksbank conclude agreement for Sweden to join T2](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html) 2026-11-25
 - [Card payments edge past cash in shops; euro area consumers want both](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html) 2026-11-25
 - [Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html) 2026-11-24
 - [Philip R. Lane: Climate change and monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf) 2026-11-23
@@ -46,6 +47,7 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Applications for a fee waiver: caseworker guidance](https://www.gov.uk/government/publications/applications-for-a-fee-waiver-and-refunds) 2026-11-25
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-25
 - [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-25
 - [Guidance: Chapter 08 – appendix FM family members: caseworker guidance](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members) 2026-11-25
@@ -59,7 +61,6 @@
 - [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
 - [Guidance: Returns preparation: caseworker guidance](https://www.gov.uk/government/publications/returns-preparation) 2026-11-20
 - [Guidance: China: country policy and information notes](https://www.gov.uk/government/publications/china-country-policy-and-information-notes) 2026-11-20
-- [Guidance: Nigeria: country policy and information notes](https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes) 2026-11-18
 
 ### Knight Frank Research
 *Real estate*
@@ -70,16 +71,6 @@
 - [The Residence Report](https://www.knightfrank.com/research/reports/global/the-residence-report)
 - [Asia Pacific Logistics Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083)
 - [Data Centres Global Report](https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global)
-
-### EU Digital Strategy
-*AI, EU digital policy*
-
-- [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
-- [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
-- [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial)
-- [Results of the 2026 call for proposals on pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting)
-- [Commission funds four news media projects with €16.6 million to foster pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting)
 
 ### ECIA News
 *Components, supply chains*
@@ -99,7 +90,7 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 5 items |
+| ECB Press | A | RSS | ok 6 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
@@ -112,7 +103,7 @@
 | KPMG EU Tax Centre | A | HTML | ok 6 items |
 | Private Equity News | A | HTML | err 401 Client Error: HTTP Forbidden for url: https://www.penews.com/ |
 | Knight Frank Research | B | HTML | ok 6 items |
-| EU Digital Strategy | B | HTML | ok 6 items |
+| EU Digital Strategy | B | HTML | ok 0 items |
 | ECIA News | B | HTML | ok 6 items |
 | Art Basel / UBS Art Market | B | HTML | ok 0 items |
 

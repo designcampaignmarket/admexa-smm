@@ -1,11 +1,24 @@
 {
-  "fetched_at": "2026-11-25T13:04:40.422859+00:00",
-  "fetched_at_human": "25 November 2026, 13:04 UTC",
+  "fetched_at": "2026-11-25T18:43:19.919778+00:00",
+  "fetched_at_human": "25 November 2026, 18:43 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 53,
+  "total_items": 48,
   "items": [
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+      "summary": "",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
     {
       "source_id": "ecb",
       "source_name": "ECB Press",
@@ -207,6 +220,19 @@
       "pillar": "Visas, relocation",
       "priority": "B",
       "admexa_service": "Relocation, international life",
+      "title": "Guidance: Applications for a fee waiver: caseworker guidance",
+      "url": "https://www.gov.uk/government/publications/applications-for-a-fee-waiver-and-refunds",
+      "summary": "Immigration staff guidance on processing applications for a fee waiver.",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
       "title": "Guidance: Register of licensed sponsors: students",
       "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
       "summary": "List of institutions licensed to sponsor migrant students under the Student and Child Student routes.",
@@ -371,19 +397,6 @@
       "status": "new"
     },
     {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Nigeria: country policy and information notes",
-      "url": "https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes",
-      "summary": "Guidance used by UK Visas and Immigration to make decisions in asylum and human rights applications.",
-      "date": "2026-11-18",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
       "source_id": "kpmg_eu_tax",
       "source_name": "KPMG EU Tax Centre",
       "pillar": "EU taxes",
@@ -540,84 +553,6 @@
       "status": "new"
     },
     {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Results of the 2026 call for proposals on pan-European reporting",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission funds four news media projects with €16.6 million to foster pan-European reporting",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
       "source_id": "ecia",
       "source_name": "ECIA News",
       "pillar": "Components, supply chains",
@@ -713,7 +648,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 5 items"
+      "status": "ok 6 items"
     },
     {
       "source": "ESMA",
@@ -791,7 +726,7 @@
       "source": "EU Digital Strategy",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 6 items"
+      "status": "ok 0 items"
     },
     {
       "source": "ECIA News",
