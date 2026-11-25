@@ -1,11 +1,24 @@
 {
-  "fetched_at": "2026-11-25T07:02:34.113488+00:00",
-  "fetched_at_human": "25 November 2026, 07:02 UTC",
+  "fetched_at": "2026-11-25T13:04:40.422859+00:00",
+  "fetched_at_human": "25 November 2026, 13:04 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 46,
+  "total_items": 53,
   "items": [
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "Card payments edge past cash in shops; euro area consumers want both",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
+      "summary": "",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
     {
       "source_id": "ecb",
       "source_name": "ECB Press",
@@ -55,32 +68,6 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
       "summary": "",
       "date": "2026-11-20",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ecb",
-      "source_name": "ECB Press",
-      "pillar": "ECB decisions, banking",
-      "priority": "A",
-      "admexa_service": "Banking architecture",
-      "title": "Boris Vujčić: Financial Stability Review - November 2026",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
-      "summary": "",
-      "date": "2026-11-18",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ecb",
-      "source_name": "ECB Press",
-      "pillar": "ECB decisions, banking",
-      "priority": "A",
-      "admexa_service": "Banking architecture",
-      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
-      "summary": "",
-      "date": "2026-11-18",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -220,10 +207,10 @@
       "pillar": "Visas, relocation",
       "priority": "B",
       "admexa_service": "Relocation, international life",
-      "title": "Guidance: Register of licensed sponsors: workers",
-      "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
-      "summary": "List of organisations licensed to sponsor workers on the Worker and Temporary Worker immigration routes.",
-      "date": "2026-11-24",
+      "title": "Guidance: Register of licensed sponsors: students",
+      "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
+      "summary": "List of institutions licensed to sponsor migrant students under the Student and Child Student routes.",
+      "date": "2026-11-25",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -233,10 +220,62 @@
       "pillar": "Visas, relocation",
       "priority": "B",
       "admexa_service": "Relocation, international life",
-      "title": "Guidance: Register of licensed sponsors: students",
-      "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-students",
-      "summary": "List of institutions licensed to sponsor migrant students under the Student and Child Student routes.",
-      "date": "2026-11-24",
+      "title": "Guidance: Register of licensed sponsors: workers",
+      "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
+      "summary": "List of organisations licensed to sponsor workers on the Worker and Temporary Worker immigration routes.",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Guidance: Chapter 08 – appendix FM family members: caseworker guidance",
+      "url": "https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members",
+      "summary": "Immigration staff guidance on dealing with family applications.",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Guidance: Innovator Founder: caseworker guidance",
+      "url": "https://www.gov.uk/government/publications/innovator-appendix-w-workers",
+      "summary": "Immigration staff guidance on how decisions are made about applications from Innovator Founders.",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Guidance: Lead sponsor applications: caseworker guidance",
+      "url": "https://www.gov.uk/government/publications/lead-sponsor-applications-caseworker-guidance",
+      "summary": "Guidance on how to assess applications to become lead sponsors from charities and community interest companies (CICs) for the community sponsorship and refugee study routes.",
+      "date": "2026-11-25",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
+      "title": "Using the ‘UK Immigration: ID Check’ app",
+      "url": "https://www.gov.uk/guidance/using-the-uk-immigration-id-check-app",
+      "summary": "Information on using the app when applying to work, study or live in the UK.",
+      "date": "2026-11-25",
       "fetch_method": "RSS",
       "status": "new"
     },
@@ -340,32 +379,6 @@
       "title": "Guidance: Nigeria: country policy and information notes",
       "url": "https://www.gov.uk/government/publications/nigeria-country-policy-and-information-notes",
       "summary": "Guidance used by UK Visas and Immigration to make decisions in asylum and human rights applications.",
-      "date": "2026-11-18",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Conditions of support: caseworker guidance",
-      "url": "https://www.gov.uk/government/publications/withdrawal-of-asylum-support-where-a-breach-of-conditions-has-occurred-instruction",
-      "summary": "Immigration staff guidance on conditions that can affect asylum support such as breaches, antisocial behaviour, racist incidents and overpayment.",
-      "date": "2026-11-18",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Illegal working as a breach of conditions: caseworker guidance",
-      "url": "https://www.gov.uk/government/publications/illegal-working-as-a-breach-of-conditions-caseworker-guidance",
-      "summary": "Immigration staff guidance on how to apply the policy on illegal working as a breach of asylum support conditions.",
       "date": "2026-11-18",
       "fetch_method": "RSS",
       "status": "new"
@@ -527,6 +540,84 @@
       "status": "new"
     },
     {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Results of the 2026 call for proposals on pan-European reporting",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission funds four news media projects with €16.6 million to foster pan-European reporting",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
       "source_id": "ecia",
       "source_name": "ECIA News",
       "pillar": "Components, supply chains",
@@ -622,7 +713,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 6 items"
+      "status": "ok 5 items"
     },
     {
       "source": "ESMA",
@@ -658,7 +749,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 12 items"
+      "status": "ok 14 items"
     },
     {
       "source": "ENISA",
@@ -700,7 +791,7 @@
       "source": "EU Digital Strategy",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 0 items"
+      "status": "ok 6 items"
     },
     {
       "source": "ECIA News",
