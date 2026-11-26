@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-26T13:03:28.773741+00:00",
-  "fetched_at_human": "26 November 2026, 13:03 UTC",
+  "fetched_at": "2026-11-26T18:48:22.431975+00:00",
+  "fetched_at_human": "26 November 2026, 18:48 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
@@ -233,6 +233,19 @@
       "pillar": "Visas, relocation",
       "priority": "B",
       "admexa_service": "Relocation, international life",
+      "title": "Guidance: India: tuberculosis test clinics for a UK visa",
+      "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
+      "summary": "Where to get tested for tuberculosis (TB) in India for your UK visa application.",
+      "date": "2026-11-26",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
+    {
+      "source_id": "ukvi",
+      "source_name": "UK Visas and Immigration",
+      "pillar": "Visas, relocation",
+      "priority": "B",
+      "admexa_service": "Relocation, international life",
       "title": "Guidance: Register of licensed sponsors: workers",
       "url": "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers",
       "summary": "List of organisations licensed to sponsor workers on the Worker and Temporary Worker immigration routes.",
@@ -405,19 +418,6 @@
       "title": "Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance",
       "url": "https://www.gov.uk/government/publications/adopted-children",
       "summary": "Immigration staff guidance on considering applications for entry or leave as an adopted child or a child coming to the UK for adoption.",
-      "date": "2026-11-20",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Rwanda: tuberculosis test clinics for a UK visa",
-      "url": "https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda",
-      "summary": "Where to get tested for tuberculosis (TB) in Rwanda for your UK visa application.",
       "date": "2026-11-20",
       "fetch_method": "RSS",
       "status": "new"

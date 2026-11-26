@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 26 November 2026, 13:03 UTC  
+**Collected:** 26 November 2026, 18:48 UTC  
 **Sources:** 12/18 available  
 **Items:** 56
 
@@ -48,6 +48,7 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: India: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa) 2026-11-26
 - [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-26
 - [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-26
 - [Guidance: Nigeria: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nigeria) 2026-11-26
@@ -62,7 +63,6 @@
 - [Prove your English language abilities with a secure English language test (SELT)](https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt) 2026-11-23
 - [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
 - [Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance](https://www.gov.uk/government/publications/adopted-children) 2026-11-20
-- [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
 
 ### Knight Frank Research
 *Real estate*
