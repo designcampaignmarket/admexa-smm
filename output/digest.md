@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 26 November 2026, 07:00 UTC  
+**Collected:** 26 November 2026, 13:03 UTC  
 **Sources:** 12/18 available  
-**Items:** 54
+**Items:** 56
 
 ---
 
@@ -11,6 +11,7 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [Meeting of 28-29 October 2026](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html) 2026-11-26
 - [ECB and Sveriges Riksbank conclude agreement for Sweden to join T2](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html) 2026-11-25
 - [Card payments edge past cash in shops; euro area consumers want both](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html) 2026-11-25
 - [Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html) 2026-11-24
@@ -47,9 +48,12 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-26
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-26
+- [Guidance: Nigeria: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nigeria) 2026-11-26
+- [Official Statistics: Statistical compliance for Migration transparency data](https://www.gov.uk/government/statistics/statistical-compliance-for-migration-transparency-data) 2026-11-26
+- [Migration transparency data](https://www.gov.uk/government/statistical-data-sets/migration-transparency-data) 2026-11-26
 - [Guidance: Applications for a fee waiver: caseworker guidance](https://www.gov.uk/government/publications/applications-for-a-fee-waiver-and-refunds) 2026-11-25
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-25
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-25
 - [Guidance: Chapter 08 – appendix FM family members: caseworker guidance](https://www.gov.uk/government/publications/chapter-8-appendix-fm-family-members) 2026-11-25
 - [Guidance: Innovator Founder: caseworker guidance](https://www.gov.uk/government/publications/innovator-appendix-w-workers) 2026-11-25
 - [Guidance: Lead sponsor applications: caseworker guidance](https://www.gov.uk/government/publications/lead-sponsor-applications-caseworker-guidance) 2026-11-25
@@ -59,8 +63,6 @@
 - [Transparency data: Country returns guide](https://www.gov.uk/government/publications/country-returns-guide) 2026-11-20
 - [Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance](https://www.gov.uk/government/publications/adopted-children) 2026-11-20
 - [Guidance: Rwanda: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-rwanda) 2026-11-20
-- [Guidance: Returns preparation: caseworker guidance](https://www.gov.uk/government/publications/returns-preparation) 2026-11-20
-- [Guidance: China: country policy and information notes](https://www.gov.uk/government/publications/china-country-policy-and-information-notes) 2026-11-20
 
 ### Knight Frank Research
 *Real estate*
@@ -75,12 +77,12 @@
 ### EU Digital Strategy
 *AI, EU digital policy*
 
+- [Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial)
 - [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
 - [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
-- [Commission hosts Apply AI Summit to boost Europe’s AI innovation and uptake](https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake)
-- [Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial)
 - [AI Act scientific panel holds second regular meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-scientific-panel-holds-second-regular-meeting)
-- [Results of the 2026 call for proposals on pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/results-2026-call-proposals-pan-european-reporting)
+- [EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)
+- [Commission funds four news media projects with €16.6 million to foster pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting)
 
 ### ECIA News
 *Components, supply chains*
@@ -100,13 +102,13 @@
 |--------|----------|--------|--------|
 | STEP Blog | A | RSS | err 403 Client Error: Forbidden for url: https://blog.step.org/feed/ |
 | OECD Taxation | A | RSS | err 403 Client Error: Forbidden for url: https://www.oecd.org/newsroom/taxation.xml |
-| ECB Press | A | RSS | ok 6 items |
+| ECB Press | A | RSS | ok 7 items |
 | ESMA | A | RSS | ok 10 items |
 | FATF | A | RSS | err 403 Client Error: Forbidden for url: https://www.fatf-gafi.org/en/the-fatf/news. |
 | Invest Europe | A | RSS | ok 0 items |
 | IEA | B | RSS | err 403 Client Error: Forbidden for url: https://www.iea.org/rssfeed.xml |
 | ITIJ | B | RSS | ok 0 items |
-| UK Visas and Immigration | B | RSS | ok 14 items |
+| UK Visas and Immigration | B | RSS | ok 15 items |
 | ENISA | B | RSS | err 404 Client Error: Not Found for url: https://www.enisa.europa.eu/topics/enisa-ne |
 | WealthBriefing | A | HTML | ok 0 items |
 | CySEC | A | HTML | ok 0 items |
