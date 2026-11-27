@@ -1,6 +1,6 @@
 # ADMEXA News Digest
 
-**Collected:** 27 November 2026, 07:02 UTC  
+**Collected:** 27 November 2026, 12:59 UTC  
 **Sources:** 12/18 available  
 **Items:** 50
 
@@ -11,13 +11,13 @@
 ### ECB Press
 *ECB decisions, banking*
 
+- [ECB Consumer Expectations Survey results – October 2026](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html) 2026-11-27
 - [Meeting of 28-29 October 2026](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html) 2026-11-26
 - [ECB and Sveriges Riksbank conclude agreement for Sweden to join T2](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html) 2026-11-25
 - [Card payments edge past cash in shops; euro area consumers want both](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html) 2026-11-25
 - [Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html) 2026-11-24
 - [Philip R. Lane: Climate change and monetary policy](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf) 2026-11-23
 - [ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html) 2026-11-23
-- [Christine Lagarde: Acting in time](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) 2026-11-20
 
 ### ESMA
 *EU markets regulation, MiCA*
@@ -39,7 +39,7 @@
 - [Euro Tax Flash from KPMG's EU Tax Centre](https://kpmg.com/xx/en/what-we-do/services/tax/regional-tax-centers/eu-tax-centre/eu-tax-flash.html)
 - [The European Commission’s ambitious tax simplification package](https://kpmg.com/xx/en/our-insights/eu-tax/the-european-commission-ambitious-tax-simplification-package.html)
 - [Country-by-Country Reporting](https://kpmg.com/xx/en/what-we-do/services/tax/regional-tax-centers/eu-tax-centre/country-by-country-reporting.html)
-- [EU Public CbyC implementation tracker](https://kpmg.com/content/dam/kpmgsites/xx/pdf/2026/06/eu-public-cbyc-june-2026.pdf)
+- [EU Public CbyC implementation tracker](https://kpmg.com/content/dam/kpmgsites/xx/pdf/2026/10/eu-public-cbyc-november-2026.pdf)
 - [Navigating the first wave of EU public country-by-country reporting](https://kpmg.com/xx/en/our-insights/eu-tax/navigating-the-first-wave-of-eu-public-country-by-country-reporting.html)
 - [KPMG BEPS 2.0 Tracker](https://kpmg.com/xx/en/our-insights/eu-tax/beps-tracker.html)
 
@@ -48,9 +48,9 @@
 ### UK Visas and Immigration
 *Visas, relocation*
 
+- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-27
+- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-27
 - [Guidance: India: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa) 2026-11-26
-- [Guidance: Register of licensed sponsors: workers](https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers) 2026-11-26
-- [Guidance: Register of licensed sponsors: students](https://www.gov.uk/government/publications/register-of-licensed-sponsors-students) 2026-11-26
 - [Guidance: Nigeria: tuberculosis test clinics for a UK visa](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nigeria) 2026-11-26
 - [Official Statistics: Statistical compliance for Migration transparency data](https://www.gov.uk/government/statistics/statistical-compliance-for-migration-transparency-data) 2026-11-26
 - [Migration transparency data](https://www.gov.uk/government/statistical-data-sets/migration-transparency-data) 2026-11-26
