@@ -1,11 +1,24 @@
 {
-  "fetched_at": "2026-11-27T12:59:25.388720+00:00",
-  "fetched_at_human": "27 November 2026, 12:59 UTC",
+  "fetched_at": "2026-11-27T18:46:37.798200+00:00",
+  "fetched_at_human": "27 November 2026, 18:46 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 50,
+  "total_items": 55,
   "items": [
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "summary": "",
+      "date": "2026-11-27",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
     {
       "source_id": "ecb",
       "source_name": "ECB Press",
@@ -397,32 +410,6 @@
       "status": "new"
     },
     {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Transparency data: Country returns guide",
-      "url": "https://www.gov.uk/government/publications/country-returns-guide",
-      "summary": "Guidance on returning immigration offenders to their country of origin.",
-      "date": "2026-11-20",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
-      "source_id": "ukvi",
-      "source_name": "UK Visas and Immigration",
-      "pillar": "Visas, relocation",
-      "priority": "B",
-      "admexa_service": "Relocation, international life",
-      "title": "Guidance: Adopted children and children coming to the UK for adoption: caseworker guidance",
-      "url": "https://www.gov.uk/government/publications/adopted-children",
-      "summary": "Immigration staff guidance on considering applications for entry or leave as an adopted child or a child coming to the UK for adoption.",
-      "date": "2026-11-20",
-      "fetch_method": "RSS",
-      "status": "new"
-    },
-    {
       "source_id": "kpmg_eu_tax",
       "source_name": "KPMG EU Tax Centre",
       "pillar": "EU taxes",
@@ -579,6 +566,84 @@
       "status": "new"
     },
     {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Call for participants: workshop on embedded evaluations of GPAI models with systemic risk",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/call-participants-workshop-embedded-evaluations-gpai-models-systemic-risk",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "AI Act scientific panel holds second regular meeting",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-act-scientific-panel-holds-second-regular-meeting",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "EU and Kenya hold successful digital dialogue",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
       "source_id": "ecia",
       "source_name": "ECIA News",
       "pillar": "Components, supply chains",
@@ -674,7 +739,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 7 items"
+      "status": "ok 8 items"
     },
     {
       "source": "ESMA",
@@ -710,7 +775,7 @@
       "source": "UK Visas and Immigration",
       "priority": "B",
       "method": "RSS",
-      "status": "ok 15 items"
+      "status": "ok 13 items"
     },
     {
       "source": "ENISA",
@@ -752,7 +817,7 @@
       "source": "EU Digital Strategy",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 0 items"
+      "status": "ok 6 items"
     },
     {
       "source": "ECIA News",
