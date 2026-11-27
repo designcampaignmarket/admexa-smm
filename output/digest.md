@@ -1,8 +1,8 @@
 # ADMEXA News Digest
 
-**Collected:** 27 November 2026, 00:58 UTC  
+**Collected:** 27 November 2026, 07:02 UTC  
 **Sources:** 12/18 available  
-**Items:** 56
+**Items:** 50
 
 ---
 
@@ -74,16 +74,6 @@
 - [Asia Pacific Logistics Highlights](https://www.knightfrank.com/research/reports/apac/asia-pacific-logistics-highlights-2083)
 - [Data Centres Global Report](https://www.knightfrank.com/content/e4deecad-96cb-4624-8bc3-0c6ebee5e1d9/data-centres-global)
 
-### EU Digital Strategy
-*AI, EU digital policy*
-
-- [Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial)
-- [European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education](https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education)
-- [Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal)
-- [AI Act scientific panel holds second regular meeting](https://digital-strategy.ec.europa.eu/en/news/ai-act-scientific-panel-holds-second-regular-meeting)
-- [EU and Kenya hold successful digital dialogue](https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue)
-- [Commission funds four news media projects with €16.6 million to foster pan-European reporting](https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting)
-
 ### ECIA News
 *Components, supply chains*
 
@@ -115,7 +105,7 @@
 | KPMG EU Tax Centre | A | HTML | ok 6 items |
 | Private Equity News | A | HTML | err 401 Client Error: HTTP Forbidden for url: https://www.penews.com/ |
 | Knight Frank Research | B | HTML | ok 6 items |
-| EU Digital Strategy | B | HTML | ok 6 items |
+| EU Digital Strategy | B | HTML | ok 0 items |
 | ECIA News | B | HTML | ok 6 items |
 | Art Basel / UBS Art Market | B | HTML | ok 0 items |
 

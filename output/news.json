@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-27T00:58:55.357024+00:00",
-  "fetched_at_human": "27 November 2026, 00:58 UTC",
+  "fetched_at": "2026-11-27T07:02:31.323502+00:00",
+  "fetched_at_human": "27 November 2026, 07:02 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 56,
+  "total_items": 50,
   "items": [
     {
       "source_id": "ecb",
@@ -579,84 +579,6 @@
       "status": "new"
     },
     {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "AI Act scientific panel holds second regular meeting",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-act-scientific-panel-holds-second-regular-meeting",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "EU and Kenya hold successful digital dialogue",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
-      "source_id": "eu_digital",
-      "source_name": "EU Digital Strategy",
-      "pillar": "AI, EU digital policy",
-      "priority": "B",
-      "admexa_service": "Technology, regulation",
-      "title": "Commission funds four news media projects with €16.6 million to foster pan-European reporting",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-funds-four-news-media-projects-eur166-million-foster-pan-european-reporting",
-      "summary": "",
-      "date": "",
-      "fetch_method": "HTML",
-      "status": "new"
-    },
-    {
       "source_id": "ecia",
       "source_name": "ECIA News",
       "pillar": "Components, supply chains",
@@ -830,7 +752,7 @@
       "source": "EU Digital Strategy",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 6 items"
+      "status": "ok 0 items"
     },
     {
       "source": "ECIA News",
