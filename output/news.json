@@ -1,11 +1,24 @@
 {
-  "fetched_at": "2026-11-28T06:57:08.345398+00:00",
-  "fetched_at_human": "28 November 2026, 06:57 UTC",
+  "fetched_at": "2026-11-28T12:48:26.277298+00:00",
+  "fetched_at_human": "28 November 2026, 12:48 UTC",
   "max_age_days": 7,
   "sources_ok": 12,
   "sources_total": 18,
-  "total_items": 49,
+  "total_items": 56,
   "items": [
+    {
+      "source_id": "ecb",
+      "source_name": "ECB Press",
+      "pillar": "ECB decisions, banking",
+      "priority": "A",
+      "admexa_service": "Banking architecture",
+      "title": "Boris Vujčić: Interview with Kurier",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
+      "summary": "",
+      "date": "2026-11-28",
+      "fetch_method": "RSS",
+      "status": "new"
+    },
     {
       "source_id": "ecb",
       "source_name": "ECB Press",
@@ -566,6 +579,84 @@
       "status": "new"
     },
     {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission proposes Quantum Act and new Sovereign Tech Equity Fund to strengthen Europe's industrial capacity and security",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-proposes-quantum-act-and-new-sovereign-tech-equity-fund-strengthen-europes-industrial",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "European Digital Infrastructure Consortium launches today to strengthen digital sovereignty in education",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/european-digital-infrastructure-consortium-launches-today-strengthen-digital-sovereignty-education",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "Call for participants: workshop on embedded evaluations of GPAI models with systemic risk",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/call-participants-workshop-embedded-evaluations-gpai-models-systemic-risk",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "AI Act scientific panel holds second regular meeting",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/ai-act-scientific-panel-holds-second-regular-meeting",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
+      "source_id": "eu_digital",
+      "source_name": "EU Digital Strategy",
+      "pillar": "AI, EU digital policy",
+      "priority": "B",
+      "admexa_service": "Technology, regulation",
+      "title": "EU and Kenya hold successful digital dialogue",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/eu-and-kenya-hold-successful-digital-dialogue",
+      "summary": "",
+      "date": "",
+      "fetch_method": "HTML",
+      "status": "new"
+    },
+    {
       "source_id": "ecia",
       "source_name": "ECIA News",
       "pillar": "Components, supply chains",
@@ -661,7 +752,7 @@
       "source": "ECB Press",
       "priority": "A",
       "method": "RSS",
-      "status": "ok 8 items"
+      "status": "ok 9 items"
     },
     {
       "source": "ESMA",
@@ -739,7 +830,7 @@
       "source": "EU Digital Strategy",
       "priority": "B",
       "method": "HTML",
-      "status": "ok 0 items"
+      "status": "ok 6 items"
     },
     {
       "source": "ECIA News",
